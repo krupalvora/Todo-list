@@ -9,7 +9,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 function App() {
   let initTodo;
@@ -53,7 +52,7 @@ function App() {
       <Router>
         <Header title="Todo list" searchBar={false} />
         <Switch>
-          <Route exact path="/" render={() => {
+          <Route exact path="/index.html" render={() => {
             return(
             <>
               <AddTodo addTodo={addTodo} />
@@ -61,7 +60,7 @@ function App() {
             </>)
           }}>
           </Route>
-          <Route exact path="/about">
+          <Route exact path="/index.html/about">
             <About />
           </Route>
         </Switch>

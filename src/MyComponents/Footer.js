@@ -8,7 +8,7 @@ export const Footer = () => {
     } */
     return (
         <footer className='bg-dark text-light py-4 '/*  style={footerstyle} */>
-            <p className='text-center'>Copyright &copy; MyTodoList.com</p>
+            <p className='text-center'>Copyright &copy; krupalvora.github.io</p>
         </footer>
     )
 }
