@@ -50,14 +50,14 @@ function App() {
   return (
     <>
       <Router>
-        <Header title="Todo list" searchBar={false} />
-        <AddTodo addTodo={addTodo} />
-        <Todos todos={todos} onDelete={onDelete} />
+        <Header title="Todo List" searchBar={false} />
         <Switch>
           <Route exact path="/about">
             <About />
           </Route>
         </Switch>
+        <AddTodo addTodo={addTodo} />
+              <Todos todos={todos} onDelete={onDelete} />
         <Footer />
       </Router>
     </>
