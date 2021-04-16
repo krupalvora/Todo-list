@@ -1,7 +1,8 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "private": true, 
+  "private": true,
+  "homepage": "http://krupalvora.github.io/Todo-list", 
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
