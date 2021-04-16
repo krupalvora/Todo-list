@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/krupalvora/Todo-list/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/krupalvora/Todo-list/static/js/main.a6d8492c.chunk.js",
+    "main.js.map": "/krupalvora/Todo-list/static/js/main.a6d8492c.chunk.js.map",
+    "runtime-main.js": "/krupalvora/Todo-list/static/js/runtime-main.5ea1c576.js",
+    "runtime-main.js.map": "/krupalvora/Todo-list/static/js/runtime-main.5ea1c576.js.map",
+    "static/js/2.d867208e.chunk.js": "/krupalvora/Todo-list/static/js/2.d867208e.chunk.js",
+    "static/js/2.d867208e.chunk.js.map": "/krupalvora/Todo-list/static/js/2.d867208e.chunk.js.map",
+    "static/js/3.c0277f9c.chunk.js": "/krupalvora/Todo-list/static/js/3.c0277f9c.chunk.js",
+    "static/js/3.c0277f9c.chunk.js.map": "/krupalvora/Todo-list/static/js/3.c0277f9c.chunk.js.map",
+    "index.html": "/krupalvora/Todo-list/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/krupalvora/Todo-list/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.d867208e.chunk.js.LICENSE.txt": "/krupalvora/Todo-list/static/js/2.d867208e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ea1c576.js",
+    "static/js/2.d867208e.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a6d8492c.chunk.js"
+  ]
+}
